@@ -109,12 +109,12 @@ In simple terms, the app allows users to:
 ![Symptom Tracker](screenshots/Symptoms.png)
 
 ### 🤖 AI Recommendations
-<img src="screenshots/Recommendation.png" width="800"/>
-![AI Recommendations](screenshots/Recommendation.png)
+<img src="screenshots/Recommendations.png" width="800"/>
+![AI Recommendations](screenshots/Recommendations.png)
 
 ### ✨ Features Overview
-<img src="screenshots/Feature.png" width="800"/>
-![Features](screenshots/Feature.png)
+<img src="screenshots/Features.png" width="800"/>
+![Features](screenshots/Features.png)
 
 ### 🌿 Seasonal Wellness
 <img src="screenshots/Seasons.png" width="800"/>
