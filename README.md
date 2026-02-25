@@ -113,7 +113,7 @@ In simple terms, the app allows users to:
 ![AI Recommendations](screenshots/Recommendation.png)
 
 ### ✨ Features Overview
-<img src="screenshots/Features.png" width="800"/>
+<img src="screenshots/Feature.png" width="800"/>
 ![Features](screenshots/Feature.png)
 
 ### 🌿 Seasonal Wellness
@@ -121,16 +121,16 @@ In simple terms, the app allows users to:
 ![Seasonal Wellness](screenshots/Seasons.png)
 
 ##How to Run the Project
-# Clone the repository
+#Clone the repository
 git clone <your-repo-url>
 
-# Go to project folder
+#Go to project folder
 cd indo-korean-medicine-advisor
 
-# Install dependencies
+#Install dependencies
 npm install
 
-# Start development server
+#Start development server
 npm run dev
 
 Then open:
